@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vivek2005
 - My skillsets are below
 - Laravel, Codeigniter, Core PHP, MongoDB, MySql, Bootstrap, Tailwind, Html, Css, JavaScript, Jquery, Ajax
-- 🌱 I’m currently learning Deep Learning with TensorFlow.
-- 💞️ Can collaborate on Data Science projects.
+- 🌱 I’m currently doing little work on Deep Learning with TensorFlow.
+- 💞️ Can collaborate on Data Science projects or any tech.
 - 📫 You can reach me at vivek.kumar98705@gmail.com 
 
 <!---
