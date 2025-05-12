@@ -3,7 +3,6 @@
 - Laravel, Codeigniter, Core PHP, MongoDB, MySql, Bootstrap, Tailwind, Html, Css, JavaScript, Jquery, Ajax
 - 🌱 I’m currently doing little work on Deep Learning with TensorFlow.
 - 💞️ Can collaborate on Data Science projects or any tech.
-- 📫 You can reach me at vivek.kumar98705@gmail.com 
 
 <!---
 vivek2005/vivek2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
